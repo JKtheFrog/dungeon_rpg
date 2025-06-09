@@ -1,3 +1,3 @@
 # dungeon_rpg.github.io
 
-Download
+This is the official GitHub site for the Dungeon RPG game.
